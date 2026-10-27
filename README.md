@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23691141.svg)](https://doi.org/10.5281/zenodo.23691141)
 # Random splits flatter deep sequence models: benchmark code
 
 This is the code for the paper *Random splits flatter deep sequence models: a per-class chronological benchmark for
