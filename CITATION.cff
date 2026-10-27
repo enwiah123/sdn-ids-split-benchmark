@@ -4,18 +4,35 @@ title: "Random splits flatter deep sequence models: benchmark code"
 type: software
 version: 1.0.0
 license: MIT
-# Update the author list, repository URL and DOI before release.
 authors:
   - family-names: Nwiah
     given-names: Edward
-    affiliation: "University of Education, Winneba, Ghana"
-repository-code: "https://github.com/<account>/sdn-ids-split-benchmark"
+    affiliation: "Department of ICT Education, University of Education, Winneba, Ghana"
+  - family-names: Owusu-Agyemang
+    given-names: Kwabena
+    affiliation: "Department of Computer Science, Kwame Nkrumah University of Science and Technology, Kumasi, Ghana"
+  - family-names: Twum
+    given-names: Frimpong
+    affiliation: "Department of Computer Science, Kwame Nkrumah University of Science and Technology, Kumasi, Ghana"
+  - family-names: Asamoah
+    given-names: Dominic
+    affiliation: "Department of Computer Science, Kwame Nkrumah University of Science and Technology, Kumasi, Ghana"
+  - family-names: Oppong
+    given-names: Stephen Opoku
+    affiliation: "Department of ICT Education, University of Education, Winneba, Ghana"
+repository-code: "https://github.com/enwiah123/sdn-ids-split-benchmark"
 preferred-citation:
   type: article
   title: "Random splits flatter deep sequence models: a per-class chronological benchmark for intrusion detection in software-defined networks"
   authors:
     - family-names: Nwiah
       given-names: Edward
-  journal: "International Journal of Network Management"
-  status: submitted
+    - family-names: Owusu-Agyemang
+      given-names: Kwabena
+    - family-names: Twum
+      given-names: Frimpong
+    - family-names: Asamoah
+      given-names: Dominic
+    - family-names: Oppong
+      given-names: Stephen Opoku
   year: 2026
