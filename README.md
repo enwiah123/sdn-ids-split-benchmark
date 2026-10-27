@@ -1,7 +1,7 @@
 # Random splits flatter deep sequence models: benchmark code
 
 This is the code for the paper *Random splits flatter deep sequence models: a per-class chronological benchmark for
-intrusion detection in software-defined networks* (submitted to the *International Journal of Network Management*).
+intrusion detection in software-defined networks* (submitted to the **).
 
 The benchmark compares nine models (Random Forest, XGBoost, MLP, 1D-CNN, LSTM, GRU, BiLSTM, CNN-LSTM and a Transformer)
 on InSDN and the corrected CICIDS2017 under three evaluation protocols:
