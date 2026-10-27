@@ -1,0 +1,17 @@
+# Versions used for every result in the paper (see results/environment.json written by notebook 00).
+# Python 3.11. Newer versions will usually work; exact numbers can differ slightly with other versions.
+numpy==2.4.6
+pandas==3.0.6
+scipy==1.17.1
+scikit-learn==1.9.1
+xgboost==3.2.0
+torch==2.7.1          # CPU build was used; for an NVIDIA GPU install the CUDA build from pytorch.org first
+optuna==5.0.0
+imbalanced-learn==0.14.2
+matplotlib==3.11.2
+pillow
+openpyxl
+python-docx>=1.0
+jinja2>=3.1           # pandas LaTeX export
+psutil>=5.9
+jupyter

@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and this software."
+title: "Random splits flatter deep sequence models: benchmark code"
+type: software
+version: 1.0.0
+license: MIT
+# Update the author list, repository URL and DOI before release.
+authors:
+  - family-names: Nwiah
+    given-names: Edward
+    affiliation: "University of Education, Winneba, Ghana"
+repository-code: "https://github.com/<account>/sdn-ids-split-benchmark"
+preferred-citation:
+  type: article
+  title: "Random splits flatter deep sequence models: a per-class chronological benchmark for intrusion detection in software-defined networks"
+  authors:
+    - family-names: Nwiah
+      given-names: Edward
+  journal: "International Journal of Network Management"
+  status: submitted
+  year: 2026

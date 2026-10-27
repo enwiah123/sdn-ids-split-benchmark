@@ -1,0 +1,13 @@
+Feature,Studies (of 86)
+Split procedure described,23
+Split proportion,14
+Time-ordered split,0
+k-fold cross-validation,4
+Tested on a second dataset,1
+Duplicates removed,2
+Effect of duplicates or split measured,0
+Leakage discussed,0
+Tree-based comparison model,25
+Hyperparameter search described,5
+Variability across runs/folds reported,1
+Repeated seeds or statistical test,0
